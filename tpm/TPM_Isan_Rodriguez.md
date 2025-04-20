@@ -71,11 +71,11 @@ sprints.
 QA.
 
 ### Tech Stack
-Program Tools: Jira, Confluence, Markdown, Miro, Trello, Slack, Microsoft Teams.
-Cloud/Infra: AWS, Docker, Jenkins, Linux Server, NGINX.
-Frontend: ReactJS, HTML/CSS, Typescript.
-Backend: NodeJS, NestJS, Express, MongoDB, MySQL, PostgreSQL.
-Standards: Agile/SCRUM, Clean Code, SOLID Principles, Design Patterns, Domain Driven Design.
+- Program Tools: Jira, Confluence, Markdown, Miro, Trello, Slack, Microsoft Teams.
+- Cloud/Infra: AWS, Docker, Jenkins, Linux Server, NGINX.
+- Frontend: ReactJS, HTML/CSS, Typescript.
+- Backend: NodeJS, NestJS, Express, MongoDB, MySQL, PostgreSQL.
+- Standards: Agile/SCRUM, Clean Code, SOLID Principles, Design Patterns, Domain Driven Design.
 
 ## Languages
 
