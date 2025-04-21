@@ -18,7 +18,7 @@ As a proactive leader and mentor, I excel in guiding teams, fostering a culture 
 ### Tech lead at Lucid Motors
 (February 2023 - current)
 
-- Drove the delivery of Lucid Financial Services platform by managing system design, resource planning, and release timelines across engineering and business stakeholders.
+- Drove the delivery of Lucid Financial Services platform by managing system design, resource planning, and release timelines across engineering and business stakeholders. It moves millions of dollars each month by processing all the Loan and Lease applications in the USA.
 - Managed 6+ developers and coordinated work across front-end, back-end, and DevOps teams to align with quarterly OKRs.
 - Oversaw architecture and delivery using ReactJS, NestJS, MongoDB, and AWS.
 - Collaborated with Finance and Product teams to translate business needs into executable technical requirements and sprint goals.

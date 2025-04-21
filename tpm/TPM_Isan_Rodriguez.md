@@ -27,15 +27,11 @@ mitigate risk, and execute at scale across cloud-native platforms.
 ### Lucid Motors | Technical Program Manager (TPM) / Tech Lead
 Feb 2023 - Present
 
-- Drove the delivery of Lucid Financial Services platform by managing system design, resource
-planning, and release timelines across engineering and business stakeholders.
-- Managed 6+ developers and coordinated work across front-end, back-end, and DevOps
-teams to align with quarterly OKRs.
+- Drove the delivery of Lucid Financial Services platform by managing system design, resource planning, and release timelines across engineering and business stakeholders. It moves millions of dollars each month by processing all the Loan and Lease applications in the USA.
+- Managed 6+ developers and coordinated work across front-end, back-end, and DevOps teams to align with quarterly OKRs.
 - Oversaw program execution across 2 major product verticals supporting thousands of end users.
-- Collaborated with Finance and Product teams to translate business needs into executable
-technical requirements and sprint goals.
-- Identified and mitigated risks to timelines, introduced process improvements to accelerate
-throughput.
+- Collaborated with Finance and Product teams to translate business needs into executable technical requirements and sprint goals.
+- Identified and mitigated risks to timelines, introduced process improvements to accelerate throughput.
 
 
 ### Wizeline | Sr. Engineer & Technical Program Coordinator
