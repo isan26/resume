@@ -89,6 +89,7 @@ QA.
 
 - React Architecture Proposal: https://isan1989.medium.com/frontend-architecture-proposal-using-react-bbe49cf2209e
 - Backend Architecture Guide: https://github.com/isan26/backend-architecture
-- Women Who Code Docker Talk: https://github.com/isan26/dockertalk
+- Reqmate HTTP TS Library: https://www.npmjs.com/package/reqmate
 - TypeScript UI Library: https://www.npmjs.com/package/@blitzui/core
 - LinkedIn Profile: https://www.linkedin.com/in/isan-rodriguez/
+- Women Who Code Docker Talk: https://github.com/isan26/dockertalk
