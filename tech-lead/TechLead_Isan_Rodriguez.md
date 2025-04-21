@@ -1,4 +1,5 @@
 # Isan Rodriguez Trimino
+# Solutions Architect | Tech Lead | Full-Stack Expert 
 ###  isanrtech@gmail.com | <a href="tel:+13412464084">Phone : +1 (341) 246-4084 </a> | https://www.linkedin.com/in/isan-rodriguez/
 
 <br/>
