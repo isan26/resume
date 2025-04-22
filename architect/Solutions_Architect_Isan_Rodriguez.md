@@ -7,9 +7,13 @@
 
 ## About Me
 
-Strategic and technically grounded Architect with 15+ years of full-stack engineering experience, focused on delivering real products that get deployed to production on time and with high quality.
-Adept at translating complex technical requirements into scalable solutions while enabling parallel work across multiple teams.
-Recognized for promoting Clean Code, SOLID principles, and a strong culture of engineering excellence and team collaboration. I have the ability to align engineering delivery with product roadmaps, mitigate risk, and execute at scale across cloud-native platforms. I embrace AI-driven development tools to enhance productivity, accelerate and complement my learning while maintaining high-quality standards. I thrive in tackling complex challenges, exploring innovative technologies, and delivering results that scale with the needs of the business.
+Strategic and hands-on Solution Architect with 15+ years of full-stack engineering and technical
+leadership experience, including pivotal roles in the Electric Vehicle (EV) sector. Led large cross-
+functional teams of 30+ across frontend, backend, DevOps, and QA to deliver high-stakes
+solutions aligned with business-critical roadmaps. Expert in clean architecture, cloud-native
+systems, and scalable microservices. Adept at navigating the complexities of fast-paced
+environments, driving architectural decisions, managing stakeholders, and reporting to senior
+leadership.
 
 
 <br/>
@@ -18,6 +22,8 @@ Recognized for promoting Clean Code, SOLID principles, and a strong culture of e
 
 - Delivered 20+ successful product rollouts across FinTech, Automotive, and Media.
 - Led Lucid Financial Services tech stack evolution, reducing release cycles by 30% and improving sales revenue.
+ - Led a 30+ member distributed team across LATAM, North America, and EU, streamlining development processes, enforcing architectural standards, and mentoring junior architects.
+ - Resolved architecture bottlenecks in high-pressure EV product launches, balancing innovation and compliance in a tightly regulated environment.
 - Championed onboarding and mentorship programs across LATAM engineering teams.
 - Speaker at Women Who Code and contributor to open-source architecture libraries.
 
@@ -29,11 +35,13 @@ Recognized for promoting Clean Code, SOLID principles, and a strong culture of e
 
 Feb 2023 - Present
 
-- Drove the delivery of Lucid Financial Services platform by managing system design, resource planning, and release timelines across engineering and business stakeholders. It moves millions of dollars each month by processing all the Loan and Lease applications in the USA.
-- Managed 6+ developers and coordinated work across front-end, back-end, and DevOps teams to align with quarterly OKRs.
-- Oversaw architecture and delivery using ReactJS, NestJS, MongoDB, and AWS.
-- Collaborated with Finance and Product teams to translate business needs into executable technical requirements and sprint goals.
-- Identified and mitigated risks to timelines, introduced process improvements to accelerate throughput.
+- Spearheaded the architecture and delivery of Lucid Financial Services platforms, reducing release cycles by 30% and enabling faster innovation within regulatory frameworks.
+- Managed a global team of 30+ engineers (frontend, backend, QA, DevOps), aligning day-to-day execution with long-term product and business strategy.
+- Reported directly to the Head of Technology, providing regular program updates, architecture briefs, and risk mitigation strategies.
+- Acted as the primary liaison between engineering and business stakeholders, facilitating alignment across Finance, Product, and Operations teams.
+- Led architectural reviews, defined scalable standards (Clean Code, SOLID), and built reusable patterns to accelerate development velocity.
+- Addressed EV-specific challenges like system integration with proprietary vehicle data platforms, rapid scaling demands, and compliance with financial service regulations.
+- Championed mentorship programs across LATAM, growing junior developers into technical leads and fostering a culture of architectural ownership.
 
 ### Wizeline | Sr. Engineer &amp; Solutions Architect
 
