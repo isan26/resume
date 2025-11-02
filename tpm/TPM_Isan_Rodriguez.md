@@ -35,7 +35,7 @@ mitigate risk, and execute at scale across cloud-native platforms.
 <br />
 
 ### Lucid Motors | Technical Program Manager (TPM) / Tech Lead
-Feb 2023 - Present
+Feb 2023 - March 2025
 
 - Drove the delivery of Lucid Financial Services platform by managing system design, resource planning, and release timelines across engineering and business stakeholders. It moves millions of dollars each month by processing all the Loan and Lease applications in the USA.
 - Managed 6+ developers and coordinated work across front-end, back-end, and DevOps teams to align with quarterly OKRs.

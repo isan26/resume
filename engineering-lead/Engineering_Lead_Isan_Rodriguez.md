@@ -1,5 +1,6 @@
 # Isan Rodriguez Trimino
-# Engineering Leader | Solutions Architect 
+
+# Engineering Leader | Solutions Architect
 
 ### <isanrtech@gmail.com> | <a href="tel:+13412464084">Phone : +1 (341) 246-4084 </a> | <https://www.linkedin.com/in/isan-rodriguez/>
 
@@ -15,15 +16,14 @@ systems, and scalable microservices. Adept at navigating the complexities of fas
 environments, driving architectural decisions, managing stakeholders, and reporting to senior
 leadership. I believe in empowering engineers through clear architecture, psychological safety, and continuous feedback loops.
 
-
 <br/>
 
 ## Career Highlights
 
 - Delivered 20+ successful product rollouts across FinTech, Automotive, and Media.
 - Led Lucid Financial Services tech stack evolution, reducing release cycles by 30% and improving sales revenue.
- - Led a 30+ member distributed team across LATAM, North America, and EU, streamlining development processes, enforcing architectural standards, and mentoring junior architects.
- - Resolved architecture bottlenecks in high-pressure EV product launches, balancing innovation and compliance in a tightly regulated environment.
+- Led a 30+ member distributed team across LATAM, North America, and EU, streamlining development processes, enforcing architectural standards, and mentoring junior architects.
+- Resolved architecture bottlenecks in high-pressure EV product launches, balancing innovation and compliance in a tightly regulated environment.
 - Championed onboarding and mentorship programs across LATAM engineering teams.
 - Speaker at Women Who Code and contributor to open-source architecture libraries.
 
@@ -32,19 +32,20 @@ leadership. I believe in empowering engineers through clear architecture, psycho
 ## Professional Experience (only the last 4)
 
 ### Teach Lead at SunAlgo
+
 (March 2025 - Present Day)
- - Led multiple cross-functional projects, overseeing end-to-end delivery from technical design to deployment.
- - Served as the primary liaison between clients and internal teams, gathering requirements, aligning expectations, and ensuring technical feasibility.
+
+- Led multiple cross-functional projects, overseeing end-to-end delivery from technical design to deployment.
+- Served as the primary liaison between clients and internal teams, gathering requirements, aligning expectations, and ensuring technical feasibility.
 - Collaborated directly with multiple clients across different industries, translating business needs into scalable software solutions.
 - Championed the use of AI-powered tools (such as ChatGPT, GitHub Copilot, and custom automation scripts) to enhance team productivity and accelerate development cycles.
 - Mentored developers and promoted best practices in architecture, code quality, and DevOps workflows.
 
 <br />
 
-
 ### Lucid Motors | Solutions Architect / Tech Lead
 
-Feb 2023 - Present
+(Feb 2023 - March 2025)
 
 - Spearheaded the architecture and delivery of Lucid Financial Services platforms, reducing release cycles by 30% and enabling faster innovation within regulatory frameworks.
 - Managed a global team of 30+ engineers (frontend, backend, QA, DevOps), aligning day-to-day execution with long-term product and business strategy.
@@ -53,6 +54,8 @@ Feb 2023 - Present
 - Led architectural reviews, defined scalable standards (Clean Code, SOLID), and built reusable patterns to accelerate development velocity.
 - Addressed EV-specific challenges like system integration with proprietary vehicle data platforms, rapid scaling demands, and compliance with financial service regulations.
 - Championed mentorship programs across LATAM, growing junior developers into technical leads and fostering a culture of architectural ownership.
+
+<br />
 
 ### Wizeline | Sr. Engineer &amp; Solutions Architect
 
@@ -66,6 +69,7 @@ architectures.
 debt with feature demands.
 
 ### Rooftop Ventures | Enterprise Architect
+
 Dec 2020 – Oct 2021
 
 - Oversaw delivery of all web-based projects, managing timelines, developer productivity, and
@@ -76,16 +80,6 @@ program status.
 infrastructure.
 - Integrated real-time features via WebSocket and ensured PWA capabilities for cross-device
 UX.
-
-### Walook | Solutions Architect / Tech Lead
-Dec 2018 - Nov 2020
-
-- Delivered an enterprise survey platform by managing feature development from planning to
-production.
-- Actively engaged with client product owners to gather requirements and manage delivery
-sprints.
-- Built features using Laravel and VueJS, and contributed to architecture documentation and
-QA.
 
 ### Tech Stack
 
@@ -105,10 +99,9 @@ QA.
 
 ## Links
 
-- React Architecture Proposal: https://isan1989.medium.com/frontend-architecture-proposal-using-react-bbe49cf2209e
-- Backend Architecture Guide: https://github.com/isan26/backend-architecture
-- Reqmate HTTP TS Library: https://www.npmjs.com/package/reqmate
-- TypeScript UI Library: https://www.npmjs.com/package/@blitzui/core
-- LinkedIn Profile: https://www.linkedin.com/in/isan-rodriguez/
-- Women Who Code Docker Talk: https://github.com/isan26/dockertalk
-
+- React Architecture Proposal: <https://isan1989.medium.com/frontend-architecture-proposal-using-react-bbe49cf2209e>
+- Backend Architecture Guide: <https://github.com/isan26/backend-architecture>
+- Reqmate HTTP TS Library: <https://www.npmjs.com/package/reqmate>
+- TypeScript UI Library: <https://www.npmjs.com/package/@blitzui/core>
+- LinkedIn Profile: <https://www.linkedin.com/in/isan-rodriguez/>
+- Women Who Code Docker Talk: <https://github.com/isan26/dockertalk>
