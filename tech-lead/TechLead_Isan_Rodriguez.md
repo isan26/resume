@@ -12,11 +12,20 @@ As a proactive leader and mentor, I excel in guiding teams, fostering a culture 
 
 
 ## Experience (only the last 4)
-
 (NOTE : Many of the project I'd worked are properties of my formers employers and they don't want to publish information on then, hence I won't describe any detail that can compromise this.)
 
+### Teach Lead at SunAlgo
+(March 2025 - Present Day)
+ - Led multiple cross-functional projects, overseeing end-to-end delivery from technical design to deployment.
+ - Served as the primary liaison between clients and internal teams, gathering requirements, aligning expectations, and ensuring technical feasibility.
+- Collaborated directly with multiple clients across different industries, translating business needs into scalable software solutions.
+- Championed the use of AI-powered tools (such as ChatGPT, GitHub Copilot, and custom automation scripts) to enhance team productivity and accelerate development cycles.
+- Mentored developers and promoted best practices in architecture, code quality, and DevOps workflows.
+
+<br />
+
 ### Tech lead at Lucid Motors
-(February 2023 - current)
+(February 2023 - March 2025)
 
 - Drove the delivery of Lucid Financial Services platform by managing system design, resource planning, and release timelines across engineering and business stakeholders. It moves millions of dollars each month by processing all the Loan and Lease applications in the USA.
 - Managed 6+ developers and coordinated work across front-end, back-end, and DevOps teams to align with quarterly OKRs.
@@ -49,15 +58,6 @@ program status.
 infrastructure.
 - Integrated real-time features via WebSocket and ensured PWA capabilities for cross-device
 UX.
-
-### Full Stack developer at Walook
-(december 2018- november 2020)
-
-- Delivered an enterprise survey platform by managing feature development from planning to
-production.
-- Actively engaged with client product owners to gather requirements and manage delivery sprints.
-- Built features using Laravel and VueJS, and contributed to architecture documentation and QA.
-
 
 ---
 
