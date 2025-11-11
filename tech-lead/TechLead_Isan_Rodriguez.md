@@ -63,8 +63,8 @@ UX.
 
 ### Tech Stack
 - Cloud/Infra: AWS, Docker, Jenkins, Linux Server, NGINX.
-- Frontend: ReactJS, HTML/CSS, Javascript/Typescript.
-- Backend: NodeJS, NestJS, Express, MongoDB, MySQL, PostgreSQL, Javascript/Typescript.
+- Frontend: ReactJS, Vuejs, HTML/CSS, Javascript/Typescript.
+- Backend: NodeJS, NestJS, Express, MongoDB, MySQL, PostgreSQL, Javascript/Typescript, Python, FastApi.
 - Standards: Agile/SCRUM, Clean Code, SOLID Principles, Design Patterns, Domain Driven Design.
 
 ---
