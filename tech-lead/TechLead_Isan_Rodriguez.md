@@ -14,13 +14,9 @@ As a proactive leader and mentor, I excel in guiding teams, fostering a culture 
 ## Experience (only the last 4)
 (NOTE : Many of the project I'd worked are properties of my formers employers and they don't want to publish information on then, hence I won't describe any detail that can compromise this.)
 
-### Teach Lead at SunAlgo
+### Coding Expert at Mercor (For Client OpenAI)
 (March 2025 - Present Day)
- - Led multiple cross-functional projects, overseeing end-to-end delivery from technical design to deployment.
- - Served as the primary liaison between clients and internal teams, gathering requirements, aligning expectations, and ensuring technical feasibility.
-- Collaborated directly with multiple clients across different industries, translating business needs into scalable software solutions.
-- Championed the use of AI-powered tools (such as ChatGPT, GitHub Copilot, and custom automation scripts) to enhance team productivity and accelerate development cycles.
-- Mentored developers and promoted best practices in architecture, code quality, and DevOps workflows.
+ - Training OpenAI's Frontier models.
 
 <br />
 
