@@ -4,13 +4,7 @@
 <br/>
 
 ## About Me
-Strategic and technically grounded Technical Program Manager with 15+ years of full-stack
-engineering experience, now focused on leading cross-functional initiatives that drive business
-outcomes. Adept at translating complex technical requirements into scalable solutions while
-ensuring program execution across Agile teams. Passionate about clean architecture, AI-
-enhanced workflows, and delivering value through structured program management and
-continuous collaboration. Proven ability to align engineering delivery with product roadmaps,
-mitigate risk, and execute at scale across cloud-native platforms.
+Highly technical TPM with 15+ years as a senior full-stack engineer, experienced in system design, distributed architectures, and cloud-native platforms. Proven ability to lead complex engineering programs end-to-end, break down technical ambiguity, and drive alignment across backend, frontend, data, and infra teams. Focused on delivering high-quality, scalable solutions through clean architecture and AI-driven workflows.
 
 <br/>
 
