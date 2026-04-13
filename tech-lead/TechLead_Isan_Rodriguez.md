@@ -24,49 +24,49 @@ As a proactive leader and mentor, I excel in guiding teams, fostering a culture 
 
 <br />
 
-### Tech lead at Lucid Motors
-(February 2023 - March 2025)
+### Tech Lead at Lucid Motors
 
-- Drove the delivery of Lucid Financial Services platform by managing system design, resource planning, and release timelines across engineering and business stakeholders. It moves millions of dollars each month by processing all the Loan and Lease applications in the USA.
-- Managed 6+ developers and coordinated work across front-end, back-end, and DevOps teams to align with quarterly OKRs.
-- Oversaw architecture and delivery using ReactJS, NestJS, MongoDB, and AWS.
-- Collaborated with Finance and Product teams to translate business needs into executable technical requirements and sprint goals.
-- Identified and mitigated risks to timelines, introduced process improvements to accelerate throughput.
+(February 2023 - March 2025) | Remote (US) | Full-time
+
+- Drove architecture and delivery for a business-critical financial platform processing high-value workflows at scale.
+- Improved the loan/lease approval workflow, reducing turnaround time from days to seconds for 10k daily active users; supported revenue-generating flows (thousands of dollars).
+- Led and mentored 6+ developers and coordinated work across frontend, backend, and DevOps teams, aligning execution with quarterly OKRs.
+- Owned system design and delivery using ReactJS, NestJS, MongoDB, and AWS; emphasized reliability, security, and release discipline.
+- Partnered with Finance and Product as a technical bridge, translating business needs into technical requirements, delivery plans, and sprint goals; mitigated delivery risks.
 
 <br/>
 
 ### Senior Software Engineer at Wizeline
- (October 2021 - February 2023)
 
- - Worked as a Full Stack Engineer for Disney and Earnest.
- - Managed Junior developers.
- - Responsible for different projects including Earnest's client loging system.
- - Facilitated onboarding for new hires, conducted workshops on clean code and scalable
-architectures.
+(October 2021 - February 2023) | Remote (US) | Full-time
 
+- Worked as a full-stack engineer on client projects, clarifying requirements with stakeholders and balancing delivery with maintainability and quality.
+- Improved team delivery throughput by ~25% by strengthening execution hygiene (planning, code review standards, and reducing rework).
+- Mentored junior developers; supported onboarding and ran workshops on clean code and scalable architectures.
+- Contributed to authentication/login flows and backend APIs, prioritizing correctness and security fundamentals.
 
 ### Enterprise Architect at Rooftop Ventures
 
-#### (December 2020 - October 2021)
-Team lead and on charge of everseeing every project, pull requests, implementation and infraestructure.
+### Enterprise Architect at Rooftop Ventures
 
-- Oversaw delivery of all web-based projects, managing timelines, developer productivity, and
-architecture decisions.
-- Acted as central point of contact for stakeholders, managing expectations and reporting
-program status.
-- Delivered containerized deployments via Jenkins pipelines and NGINX-based hosting
-infrastructure.
-- Integrated real-time features via WebSocket and ensured PWA capabilities for cross-device
-UX.
+(December 2020 - October 2021) | Mexico | Full-time
+
+- Led architecture decisions and delivery across multiple web-based projects, owning code quality, PR reviews, and infrastructure direction.
+- Scaled the product portfolio from 3 to 11 active products by standardizing architecture patterns and delivery practices.
+- Improved production stability from weekly interruptions to rare occurrences (about 1 every 3 months or less) by introducing quality methods and release discipline.
+- Increased developer leverage from ~1 developer per product to 3–4 products per developer through shared components, reusable patterns, and better workflows.
+- Delivered containerized deployments via Jenkins pipelines and NGINX-based hosting infrastructure.
+- Implemented real-time features via WebSocket and ensured PWA capabilities for cross-device UX.
+- Improved knowledge sharing across the team to reduce single points of failure.
 
 ---
 
 ### Tech Stack
-- Cloud/Infra: AWS, Docker, Jenkins, Linux Server, NGINX.
-- Frontend: ReactJS, Vuejs, HTML/CSS, Javascript/Typescript.
-- Backend: NodeJS, NestJS, Express, MongoDB, MySQL, PostgreSQL, Javascript/Typescript, Python, FastApi.
-- Standards: Agile/SCRUM, Clean Code, SOLID Principles, Design Patterns, Domain Driven Design.
-
+- **Backend:** Python (FastAPI) | JavaScript/TypeScript (Node.js, ExpressJS, NestJS).
+- **Data:** MongoDB, PostgreSQL, MySQL, Redis.
+- **Cloud/Infra:** AWS, Docker, Linux, NGINX, Jenkins.
+- **Frontend:** ReactJS, Vue.js, HTML/CSS, JavaScript/TypeScript.
+- **Engineering Practices:** CI/CD, clean architecture, SOLID Principles, Design Patterns, Domain-Driven Design, Code review culture.
 ---
 ## Languages
 ### Spanish (Native) | English (B2) | French (A1)
