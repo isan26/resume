@@ -66,7 +66,7 @@ As a proactive leader and mentor, I excel in guiding teams, fostering a culture 
 - **Data:** MongoDB, PostgreSQL, MySQL, Redis.
 - **Cloud/Infra:** AWS, Docker, Linux, NGINX, Jenkins.
 - **Frontend:** ReactJS, Vue.js, HTML/CSS, JavaScript/TypeScript.
-- **Engineering Practices:** CI/CD, clean architecture, SOLID Principles, Design Patterns, Domain-Driven Design, Code review culture.
+- **Engineering Practices:** CI/CD, clean architecture, SOLID Principles, Design Patterns, Domain-Driven Design, Code review culture, AI Assisted Development tools, Api Design, Software Architecture.
 ---
 ## Languages
 ### Spanish (Native) | English (B2) | French (A1)
