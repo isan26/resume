@@ -1,5 +1,5 @@
 # Isan Rodriguez Trimino
-# Solutions Architect | Tech Lead | Full-Stack Expert 
+# AI Augmented Tech Lead | Full-Stack Expert | RAG
 ###  isanrtech@gmail.com | <a href="tel:+13412464084">Phone : +1 (341) 246-4084 </a> | https://www.linkedin.com/in/isan-rodriguez/
 
 <br/>
@@ -10,6 +10,15 @@ I am a seasoned full-stack developer with over 15+ years of experience designing
 
 As a proactive leader and mentor, I excel in guiding teams, fostering a culture of continuous learning and driving alignment between technical vision and business goals. I embrace AI-driven development tools to enhance productivity, accelerate and complement my learning while maintaining high-quality standards. I thrive in tackling complex challenges, exploring innovative technologies, and delivering results that scale with the needs of the business.
 
+---
+### Tech Stack
+- **Backend:** Python (FastAPI) | JavaScript/TypeScript (Node.js, ExpressJS, NestJS).
+- **AI:** Langchain |  RAG (pgvector) | Github Copilot
+- **Data:** MongoDB, PostgreSQL, MySQL, Redis.
+- **Cloud/Infra:** AWS, Docker, Linux, NGINX, Jenkins.
+- **Frontend:** ReactJS, Vue.js, HTML/CSS, JavaScript/TypeScript.
+- **Engineering Practices:** CI/CD, clean architecture, SOLID Principles, Design Patterns, Domain-Driven Design, Code review culture, AI Assisted Development tools, Api Design, Software Architecture.
+---
 
 ## Experience (only the last 4)
 (NOTE : Many of the project I'd worked are properties of my formers employers and they don't want to publish information on then, hence I won't describe any detail that can compromise this.)
@@ -61,13 +70,6 @@ As a proactive leader and mentor, I excel in guiding teams, fostering a culture 
 
 ---
 
-### Tech Stack
-- **Backend:** Python (FastAPI) | JavaScript/TypeScript (Node.js, ExpressJS, NestJS).
-- **Data:** MongoDB, PostgreSQL, MySQL, Redis.
-- **Cloud/Infra:** AWS, Docker, Linux, NGINX, Jenkins.
-- **Frontend:** ReactJS, Vue.js, HTML/CSS, JavaScript/TypeScript.
-- **Engineering Practices:** CI/CD, clean architecture, SOLID Principles, Design Patterns, Domain-Driven Design, Code review culture, AI Assisted Development tools, Api Design, Software Architecture.
----
 ## Languages
 ### Spanish (Native) | English (B2) | French (A1)
 
